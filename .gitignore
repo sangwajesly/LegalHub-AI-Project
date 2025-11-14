@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Dependencies/Builds
+node_modules/
+.next/
+dist/
+
+# AI/Data
+ai-engine/models/
+data/raw/
