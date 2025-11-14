@@ -1,0 +1,8 @@
+# File: backend/requirements.txt
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+psycopg2-binary # PostgreSQL driver
+python-dotenv
+
